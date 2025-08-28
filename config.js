@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PROVIDE YOUR SESSION ID",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~zkxQHAaT#K4VmcZyTcy_WqWMHG9Ok2IRuPv86ClepEiE4l6Qcte8",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 //anticall on/off
    ANTI_CALL: process.env.ANTI_CALL || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PRINCE XTREME 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY QUE𝙴Nൢ᭄͢𝐆𝐡𝐎𝐒𝐓 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -25,22 +25,22 @@ WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group
-ANTI_LINK: process.env.ANTI_LINK || "false",
+ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/mry39g.jpg",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "🍷",
     
     AUTO_BIO: process.env.AUTO_BIO || "false",// Replace with your authorized numbers
     
     // Timezone for the auto-bio feature
     TIME_ZONE: process.env.TIME_ZONE || "Asia/Kolkata",  // Change to your preferred timezone
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐗𝐓𝐑𝐄𝐌𝐄 𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "QUE𝙴Nൢ᭄͢𝐆𝐡𝐎𝐒𝐓 𝐗𝐌𝐃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "•᭄͢❈🏴‍☠️𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐗-𝐓𝐑𝐄𝐌𝐄🇦🇱᪣᭄",
+STICKER_NAME: process.env.STICKER_NAME || "•᭄͢❈🏴‍☠️QUE𝙴Nൢ᭄͢𝐆𝐡𝐎𝐒𝐓",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -50,7 +50,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "528145550855",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ᴘʀɪɴᴄᴇ",
+OWNER_NAME: process.env.OWNER_NAME || "QUE𝙴Nൢ᭄͢𝐆𝐡𝐎𝐒𝐓",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ xᴛʀᴇᴍᴇ*",
 // add bot owner name    
@@ -76,7 +76,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
